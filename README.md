@@ -7,6 +7,8 @@ npm install -g pnpm
 pnpm install -g vercel
 
 pnpm i
+
+vercel
 ```
 
 ## dev run

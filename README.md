@@ -1,4 +1,4 @@
-# source-builder-vercel-serverless
+# vercel-serverless
 
 ## init
 ```
